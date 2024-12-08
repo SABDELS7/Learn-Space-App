@@ -1,0 +1,20 @@
+<resources>
+    <!-- Primary Color -->
+    <color name="purple_500">#9C27B0</color>
+
+    <!-- Secondary Color -->
+    <color name="teal_700">#00796B</color>
+
+    <!-- Accent Color -->
+    <color name="purple_700">#7B1FA2</color>
+
+    <!-- Text Color -->
+    <color name="black">#000000</color>
+
+    <!-- White Color -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="background_color">#F5F5F5</color>
+    <color name="button_background">#6200EE</color>
+</resources>
